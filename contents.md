@@ -1,3 +1,0 @@
-# contents
-
-Some additional content
